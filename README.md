@@ -1,8 +1,8 @@
-# Implicit Human Abuse Detection in Social Media Texts
+# Implicit Toxicity Detection in Sinhala (Unicode) Social Media Texts using Machine learning
 
 ## 🔍 Overview
-A research-driven project under development focused on detecting subtle, implicit abuse in social media texts using advanced NLP and machine learning techniques. It aims to go beyond traditional toxicity detection by identifying hidden, context-dependent abusive language.
-This research project is still under development which explores the detection of **Implicit Human Abuse in social Media Texts** using Natural Language Processing (NLP) and machine learning techniques. Unlike explicit abuse, implicit abuse is subtle, context-dependent, and often masked by sarcasm, euphemism, or coded language. Our goal is to develop a robust classifier that can identify such content with high precision and recall.
+A research-driven project under development focused on detecting subtle, implicit toxicity in social media texts using advanced NLP and machine learning techniques. It aims to go beyond traditional toxicity detection by identifying hidden, context-dependent abusive language.
+This research project is still under development which explores the detection of **Implicit toxicity in social Media Texts** using Natural Language Processing (NLP) and machine learning techniques. Unlike explicit abuse, implicit abuse is subtle, context-dependent, and often masked by sarcasm, euphemism, or coded language. Our goal is to develop a robust classifier that can identify such content with high precision and recall.
 
 ---
 
@@ -54,4 +54,4 @@ I.D.Samarasingha
 
 📬 Contact
 For collaborations, feel free to reach out:
-📧 wasana200094@gmail.com
+📧 wasanapelawaththasl@gmail.com
