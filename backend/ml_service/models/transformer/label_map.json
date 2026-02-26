@@ -1,0 +1,26 @@
+{
+  "labels": [
+    "Hate",
+    "Non Toxic",
+    "Offensive",
+    "Racism",
+    "Sarcasm",
+    "Sexism"
+  ],
+  "label2id": {
+    "Hate": 0,
+    "Non Toxic": 1,
+    "Offensive": 2,
+    "Racism": 3,
+    "Sarcasm": 4,
+    "Sexism": 5
+  },
+  "id2label": {
+    "0": "Hate",
+    "1": "Non Toxic",
+    "2": "Offensive",
+    "3": "Racism",
+    "4": "Sarcasm",
+    "5": "Sexism"
+  }
+}

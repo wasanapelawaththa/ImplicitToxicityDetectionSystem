@@ -1,0 +1,34 @@
+# Node
+**/node_modules/
+dist/
+build/
+
+# Python env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*.env
+
+# HuggingFace / Training outputs (HUGE)
+**/models/**/checkpoint-*/
+**/models/**/runs/
+**/models/**/wandb/
+**/models/**/optimizer.pt
+**/models/**/scheduler.pt
+**/models/**/trainer_state.json
+**/models/**/training_args.bin
+
+# Large model weights (choose ONE approach)
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# OS junk
+.DS_Store
+Thumbs.db
