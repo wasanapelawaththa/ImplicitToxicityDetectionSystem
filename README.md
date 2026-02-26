@@ -38,7 +38,6 @@ The collected comments were manually reviewed, cleaned, and annotated to ensure 
 	5000 Healthy
 	5000 Toxic
 
-
 2. **Preprocessing**  
 
 One of our main goals is to reduce the noise from user-generated texts and frame for improving the accuracy and reliability of implicit toxicity detection. Here we follow several main steps to achieve the goal.
