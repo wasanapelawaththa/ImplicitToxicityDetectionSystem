@@ -47,7 +47,7 @@ Tokenization is the first and most important step in pre-processing user-generat
 3. **Modeling**
  
 Implicit Toxicity Detection Model is a Sinhala Unicode–based implicit toxicity detection transformer model that serves as the core intelligent component of the HugHub system. It analyzes text to identify hidden toxic content using machine learning, enabling accurate, automatic moderation and a safer communication environment for Sinhala-speaking users.
-We have tried several approaches and proven the accuracy of predictions change according to the type of algorithm. Nearly 90% accuracy has been taken from finally trained XBERT  transformer model.
+We have tried several approaches and proven the accuracy of predictions change according to the type of algorithm. Nearly 90% accuracy has been taken from finally trained XBERT  transformer model. The trained models and their outputs are not added to the project folder since heavy content. You can reach out them through <https://drive.google.com/file/d/1D2GSHnJ7RhcaQ-XOkmnJf4-mJdysXa11/view?usp=drive_link>
 
 
 ## 🤝 Contributors
