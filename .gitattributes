@@ -1,0 +1,1 @@
+backend/ml_service/models/transformer/model.safetensors filter=lfs diff=lfs merge=lfs -text
